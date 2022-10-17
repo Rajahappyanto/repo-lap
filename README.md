@@ -16,4 +16,4 @@ Langkah langkah Menggunakan GIT
 	---
 
 
-	![scs1](pict_practice/scs1.png)
+	![scs1](repo-lap/pict_practice/scs1.png)
