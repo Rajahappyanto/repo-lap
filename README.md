@@ -16,4 +16,4 @@ Langkah langkah Menggunakan GIT
 	---
 
 
-	![scs1.png]({pict_practice/scs1.png})
+	![scs1.png]({https://github.com/luffy-arc/repo-lap/blob/main/pict_practice/scs1.png})
