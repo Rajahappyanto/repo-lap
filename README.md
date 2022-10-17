@@ -15,4 +15,5 @@ Langkah langkah Menggunakan GIT
 	$ git config --list
 	---
 
+
 	![scs1](pict_practice/scs1.png)
